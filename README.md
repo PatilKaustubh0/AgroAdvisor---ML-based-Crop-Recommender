@@ -2,7 +2,7 @@
 
 ## Introduction 🔍
 Farmers struggle with unpredictable weather, market shifts, and outdated methods in choosing crops. 
-AgroSmart uses machine learning to analyze local soil, climate, and crop data, providing precise recommendations to boost yield, profitability, and sustainability.
+AgroAdvisor uses machine learning to analyze local soil, climate, and crop data, providing precise recommendations to boost yield, profitability, and sustainability.
 
 ## Features 🎯
  - Crop Recommendations: Uses Random Forest algorithm to suggest  the most suitable crop based on input conditions.
